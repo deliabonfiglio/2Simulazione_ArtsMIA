@@ -9,6 +9,7 @@ import it.polito.tdp.artsmia.model.Evento.EventType;
 import java.util.*;
 
 public class Simulatore {
+	//parametri simulazione
 	private int K;
 	private int annoPartenza;
 	
